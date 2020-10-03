@@ -1,6 +1,6 @@
 # Github Explorer
 
-> With this academic project you can search for GitHub repositories and see their information  
+> With this academic React project you can search for GitHub repositories and see their information  
 
 ## Installation
 
